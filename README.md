@@ -13,3 +13,4 @@
 <img width="996" alt="Screenshot 2023-05-07 at 17 06 37" src="https://user-images.githubusercontent.com/108625115/236671145-1db4f9b2-dfcf-414d-b7d2-74c1d01ee99a.png">
 7. Cập nhật danh mục sản phẩm 
 <img width="1016" alt="Screenshot 2023-05-07 at 17 08 58" src="https://user-images.githubusercontent.com/108625115/236671244-8731e3db-c461-4e17-8c06-d20e4116e01f.png">
+* Kiên thức lý thuyết: https://kungfutech.edu.vn/khoa-hoc/spring-boot, https://techmaster.vn/posts/37628/programmatic-transaction-management-in-spring
