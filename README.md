@@ -1,5 +1,18 @@
 # Spring_JPA
-1. Hiển thị chi tiết sản phẩm 
+1. Spring Data JPA là gì? 
+- JPA là một bộ đặc tả tiêu chuẩn của Java,trong đó mô tả các thao tác quản lý dữ liệu quan hệ sử dụng công nghệ ORM trong các ứng dụng sử dụng Java.
+
+<img width="757" alt="Screenshot 2023-05-14 at 18 00 05" src="https://github.com/tuyetnga09/Spring_JPA/assets/108625115/d51f1319-0a21-494d-bf12-d59924d6b548">
+
+- JPA cung cấp đầy đủ các công cụ cho phép thao tác với CSDL một cách đơn giản và nhanh chóng.
+- JPA hoạt động như một cầu nối giữa các bảng/các mối quan hệ giữa các bảng trong cơ sở dữ liệu và các lớp/mối quan hệ giữa các đối tượng.
+
+2. Lý do tại sao cần học Spring Data JPA
+- No-code Repository
+- Giảm thiểu tối đa boilerplate code
+- Giải thích rõ hơn 
+
+4. Hiển thị chi tiết sản phẩm 
 <img width="994" alt="Screenshot 2023-05-07 at 16 57 43" src="https://user-images.githubusercontent.com/108625115/236670739-32fc3ea2-057a-44dd-a3d7-d4e1d7a5cebf.png">
 2. Thêm sản phẩm 
 <img width="1020" alt="Screenshot 2023-05-07 at 17 00 46" src="https://user-images.githubusercontent.com/108625115/236670852-5af646c8-2346-4bec-9f3e-6d6ae9362b70.png">
